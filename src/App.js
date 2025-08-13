@@ -1,25 +1,43 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react';
+import Signature from './Signature';
+import {Form, ImageForm} from './Form';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+export default function App() {
+  const [nameValue, setNameValue] = useState('');
+  const [headerValue, setHeaderValue] = useState('');
+  const [emailValue, setEmailValue] = useState('');
+  const [phoneValue, setPhoneValue] = useState('');
+  const [imageSrc, setImageSrc] = useState(null);
+
+  return (<>
+        <div>
+        <Signature name={nameValue} header={headerValue} email={emailValue} phone={phoneValue} image={imageSrc} />
+        </div>
+        <br />
+
+        <Form
+            value={nameValue}
+            type="name"
+            onChange={(e) => setNameValue(e.target.value)}
+        />
+        <Form
+            value={headerValue}
+            type="header"
+            onChange={(e) => setHeaderValue(e.target.value)}
+        />
+        <Form
+            value={emailValue}
+            type="email"
+            onChange={(e) => setEmailValue(e.target.value)}
+        />
+        <Form
+            value={phoneValue}
+            type="phone"
+            onChange={(e) => setPhoneValue(e.target.value)}
+        />
+        <ImageForm 
+            onImageChange={setImageSrc}
+        />
+    </>
   );
 }
-
-export default App;
