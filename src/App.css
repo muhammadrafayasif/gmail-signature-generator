@@ -32,3 +32,13 @@ input[type=text]:focus {
     width: 40px;
     display: block;
 }
+
+@media only screen and (max-width: 767px) {
+    .page {
+        display: block;
+        border: none;
+    }
+    .gmail-signature-generator {
+        box-shadow: none;
+    }
+}
