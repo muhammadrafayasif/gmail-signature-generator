@@ -1,4 +1,4 @@
-🌐 ![Visit the website!](https://gmail-signature-generator.netlify.app/)
+[🌐 Visit the website!](https://gmail-signature-generator.netlify.app/)
 <h2>Preview</h2>
 <img width="300" alt="preview" src="https://github.com/user-attachments/assets/1f72d9b9-c84c-4e79-bcc6-6986ff60eec1" />
 
@@ -11,6 +11,17 @@ Stand out with every email you send. Our easy-to-use Gmail Signature Generator l
 - ✅ Fast, Free, and Easy to Use
 
 Start building your signature now — and make every email count.
+
+---
+
+<h2>How to Add a GMail Signature to Your Account</h2>
+
+- Open your GMail
+- Go to Settings (See all settings)
+- Scroll down to Signature
+- Copy the signature in the website with your mouse and paste it in GMail
+- Congrats! You have added your signature!
+
 
 ---
 <h2>💻 Open Source & Built for Collaboration</h2>
