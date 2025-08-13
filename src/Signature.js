@@ -20,8 +20,9 @@ function Signature({
   }
   return (
       <>
+        <span className='logo'><img alt='logo' src='https://images.icon-icons.com/2631/PNG/512/gmail_new_logo_icon_159149.png' /> GMail Signature Generator</span>
         <p>Best Regards,</p>
-        <table border="1" style={{ borderCollapse: "collapse", border: "none", backgroundColor: "#F5F5F5", borderRadius: "14px" }}>
+        <table className="signature-preview" border="1" style={{ borderCollapse: "collapse", border: "none", backgroundColor: "#F5F5F5", borderRadius: "14px" }}>
           <tr style={{border: "none"}}>
             {
               image ? 

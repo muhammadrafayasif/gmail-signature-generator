@@ -18,18 +18,18 @@ export default function App() {
   return (<>
         <div className='page'>
             <div className='gmail-signature-generator'>
-                <Signature 
-                    name={nameValue} 
-                    header={headerValue} 
-                    email={emailValue} 
-                    phone={phoneValue} 
-                    image={imageSrc}
+                    <Signature 
+                        name={nameValue} 
+                        header={headerValue} 
+                        email={emailValue} 
+                        phone={phoneValue} 
+                        image={imageSrc}
 
-                    linkedin={linkedinValue}
-                    github={githubValue}
-                    whatsapp={whatsappValue}
-                    instagram={instagramValue}
-                />
+                        linkedin={linkedinValue}
+                        github={githubValue}
+                        whatsapp={whatsappValue}
+                        instagram={instagramValue}
+                    />
                 <br />
                 <Form
                     value={nameValue}

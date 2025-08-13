@@ -6,7 +6,7 @@ function Form({type, value, onChange}){
                 value={value}
                 onChange={onChange}
                 placeholder={`Type to change ${type} content`}
-                style={{ padding: '8px', width: '300px', marginBottom: '20px' }}
+                style={{ padding: '8px', width: '100%', marginBottom: '20px', border: 'none', borderBottom: '2px solid black' }}
             />
             <br />
         </>
