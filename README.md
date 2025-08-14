@@ -1,4 +1,4 @@
-[🌐 Visit the website!](https://gmail-signature-generator.netlify.app/)
+[🌐 Visit the website!](https://quicksig.netlify.app/)
 
 ---
 
