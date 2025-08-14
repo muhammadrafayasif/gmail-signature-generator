@@ -13,6 +13,17 @@ Stand out with every email you send. Our easy-to-use Gmail Signature Generator l
 Start building your signature now — and make every email count.
 
 ---
+
+<h2>How to Add a GMail Signature to Your Account</h2>
+
+- Open your GMail
+- Go to Settings (See all settings)
+- Scroll down to Signature
+- Copy the signature in the website with your mouse and paste it in GMail
+- Congrats! You have added your signature!
+
+
+---
 <h2>💻 Open Source & Built for Collaboration</h2>
 
 This project is open source and hosted on GitHub.
