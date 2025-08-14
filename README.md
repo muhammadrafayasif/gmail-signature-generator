@@ -1,4 +1,4 @@
-🌐 ![Visit the website!](https://gmail-signature-generator.netlify.app/)
+[🌐 Visit the website!](https://gmail-signature-generator.netlify.app/)
 <h2>Preview</h2>
 <img width="300" alt="preview" src="https://github.com/user-attachments/assets/1f72d9b9-c84c-4e79-bcc6-6986ff60eec1" />
 
