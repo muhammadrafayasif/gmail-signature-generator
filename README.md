@@ -6,7 +6,7 @@
 
 <img width="300" alt="preview" src="https://github.com/user-attachments/assets/1f72d9b9-c84c-4e79-bcc6-6986ff60eec1" />
 
-Stand out with every email you send. Our easy-to-use Gmail Signature Generator lets you create a professional, personalized email signature. Your custom signature is fully compatible with Gmail and ready to copy-paste into your settings.
+Stand out with every email you send. This easy-to-use Gmail Signature Generator lets you create a professional, personalized email signature. Your custom signature is fully compatible with Gmail and ready to copy-paste into your settings.
 
 - Mobile-Friendly Designs
 - Fast, Free, and Easy to Use
